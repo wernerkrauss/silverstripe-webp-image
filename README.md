@@ -6,7 +6,7 @@
 
 ## Introduction
 
-This module creates webp images from resized jpeg and png images. More Information about webp images [https://developers.google.com/speed/webp/](https://developers.google.com/speed/webp/)
+This module creates webp images from resized jpeg and png images. More Information about webp images [https://developers.google.com/speed/webp/](https://developers.google.com/speed/webp/). See also [browser support of WebP images](https://caniuse.com/#feat=webp).
 
 ## Requirements
 
